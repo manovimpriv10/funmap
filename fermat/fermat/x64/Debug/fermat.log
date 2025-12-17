@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\nikit\Desktop\funmap\fermat\main.cpp(29,55): warning C4566: символ, представленный универсальным именем символа "\u2248", невозможно представить в текущей кодовой странице (1251)
+  fermat.vcxproj -> C:\Users\nikit\Desktop\funmap\fermat\x64\Debug\fermat.exe
